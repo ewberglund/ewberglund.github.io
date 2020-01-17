@@ -4,7 +4,7 @@
   src: url("autumn-in-november.ttf") format("truetype");
 }
 .bg-pink {
-  background-color: #000000;
+  background-color: #FFFFFF;
 }
 
 .bg-pink-flower {
@@ -20,7 +20,7 @@
 }
 
 .bg-green {
-  background-color: #000000;
+  background-color: #FFFFFF;
 }
 
 .text-align-center {
@@ -64,7 +64,7 @@
 .cong-and-margi .header .header-subtext h3 {
   padding: 10px;
   border-radius: 5px;
-  background-color: #000000;
+  background-color: #FFFFFF;
   font-size: 30px;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: white;
