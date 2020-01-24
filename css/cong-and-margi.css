@@ -162,6 +162,9 @@
   width: 150px;
   height: 150px;
 }
+.cong-and-margi #faq {
+  padding: 50;
+}
 .cong-and-margi #faq .q-and-a {
   margin: 20px 0;
 }
