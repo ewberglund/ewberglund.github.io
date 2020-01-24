@@ -134,7 +134,7 @@
   border-top: dotted 1px #777;
 }
 .cong-and-margi #details .content {
-  margin: 150px 0;
+  margin: 10px 0;
 }
 .cong-and-margi #details .content .schedule .time {
   text-align: right;
@@ -200,6 +200,8 @@
     border-bottom: 6px solid #77a3e5;
   }
   .cong-and-margi #rsvp .nestldown-img {
+    margin-left: 25px;
+    margin-right: 25px;
     width: 100vw;
     height: 100%;
   }

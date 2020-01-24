@@ -155,7 +155,7 @@ $light-green: #E5F2FC;
       border-top: dotted 1px #777;
     }
     .content {
-      margin: 150px 0;
+      margin: 10px 0;
       .schedule {
         .time {
           text-align: right;
@@ -261,6 +261,8 @@ $light-green: #E5F2FC;
     }
     #rsvp {
       .nestldown-img {
+        margin-left: 25px;
+        margin-right: 25px;
         width: 100vw;
         height: 100%;
       }
