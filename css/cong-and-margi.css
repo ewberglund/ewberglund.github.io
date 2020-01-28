@@ -149,7 +149,7 @@
   font-size: 12px;
 }
 .cong-and-margi #details {
-  padding: 0;
+  padding: 0 0 50px 0;
 }
 .cong-and-margi #details > .row {
   margin: 0;
