@@ -56,20 +56,11 @@ $light-green: #E5F2FC;
     }
   }
 .footer {
-    .footer-text {
-      position: absolute;
-      width: 100vw;
-      text-align: center;
-      top: 86px;
-      color: $light-pink;
-      h1 {
-        font-size: 72px;
-      }
-    }
+    margin: -50px 0px 0px 0px;
     .footer-subtext {
-      position: absolute;
+      position: relative;
       text-align: center;
-      bottom: 60px;
+      bottom: -450px;
       width: 100vw;
       h3 {
         padding: 10px;
@@ -306,7 +297,7 @@ $light-green: #E5F2FC;
       }
     }
     #rsvp {
-      padding: 0;
+      padding: 0px 0px 50px 0px;
       .nestldown-img {
         margin-left: 0px;
         margin-right: 0px;
