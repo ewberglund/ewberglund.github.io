@@ -34,6 +34,9 @@
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
 }
+.cong-and-margi .optional {
+  margin-bottom: 0.3em;
+}
 .cong-and-margi #mainNav {
   background-color: #306BAC;
   box-shadow: 0 0 15px #333;
