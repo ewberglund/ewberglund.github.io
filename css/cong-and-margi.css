@@ -211,15 +211,6 @@
   .cong-and-margi .footer .footer-subtext h3 {
     font-size: 18px;
   }
-  .cong-and-margi #details .content .schedule .time, .cong-and-margi #details .content .schedule .event {
-    text-align: center;
-  }
-  .cong-and-margi #details .content .schedule .time {
-    font-weight: bold;
-  }
-  .cong-and-margi #details .content .schedule .event {
-    margin-bottom: 20px;
-  }
 }
 @media (min-width: 768px) {
   .cong-and-margi #mainNav {
