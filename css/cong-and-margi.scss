@@ -257,7 +257,18 @@ $light-green: #E5F2FC;
         }
       }
     }
-
+.footer {
+      .footer-text {
+        h1 {
+          font-size: 44px;
+        }
+      }
+      .footer-subtext {
+        h3 {
+          font-size: 18px;
+        }
+      }
+    }
     #details {
       .content {
         .schedule {
