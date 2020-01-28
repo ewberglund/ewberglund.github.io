@@ -55,6 +55,40 @@ $light-green: #E5F2FC;
       }
     }
   }
+.footer {
+    .footer-text {
+      position: absolute;
+      width: 100vw;
+      text-align: center;
+      top: 86px;
+      color: $light-pink;
+      h1 {
+        font-size: 72px;
+      }
+    }
+    .footer-subtext {
+      position: absolute;
+      text-align: center;
+      bottom: 60px;
+      width: 100vw;
+      h3 {
+        padding: 10px;
+        border-radius: 5px;
+        background-color: $light-green;
+        font-size: 30px;
+        font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        color: $light-pink;
+        width: fit-content;
+        margin: 0 auto;
+        font-variant: small-caps;
+      }
+    }
+    .footer-img {
+      width: 100%;
+      height: 100vh;
+      object-fit: cover;
+    }
+  }
   .header {
     .header-text {
       position: absolute;
